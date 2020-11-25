@@ -1,0 +1,31 @@
+{
+  "name": "msducheminjr-frame-print",
+  "version": "0.1.0",
+  "description": "Node Getting Started Frame Print package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msducheminjr/frame-print.git"
+  },
+  "keywords": [
+    "frame",
+    "print",
+    "npm",
+    "node",
+    "getting",
+    "started",
+    "ngs"
+  ],
+  "author": "Michael Duchemin",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/msducheminjr/frame-print/issues"
+  },
+  "homepage": "https://github.com/msducheminjr/frame-print#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
