@@ -1,4 +1,4 @@
-module.exports = function print (msg) {
+module.exports = function print(msg) {
   console.log('**********');
   console.log(msg);
   console.log('**********');
